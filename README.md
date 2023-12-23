@@ -8,3 +8,5 @@ web server :
 - SSH
 - MySQL
 - php
+
+<img src="Dashboard-Web.png" alt="Tampilan Web">
