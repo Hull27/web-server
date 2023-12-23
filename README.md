@@ -9,4 +9,4 @@ web server :
 - MySQL
 - php
 
-<img src="Dashboard-Web.png" alt="Tampilan Web">
+<img src="images/Dashboard-Web.png" alt="Tampilan Web">
